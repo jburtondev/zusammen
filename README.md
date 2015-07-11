@@ -1,2 +1,0 @@
-# zusammen
-Anwendung für programmierenzusammen
